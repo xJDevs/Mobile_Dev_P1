@@ -21,7 +21,7 @@ export type Proyecto = {
       categoria: "Móvil",
       resumen: "App con Drawer, Tabs y Stack anidados en tres niveles.",
       descripcion:
-        "Laboratorio de TPA-4001: estructura de navegación de tres niveles con expo-router — un Drawer como contenedor principal, Bottom Tabs dentro de Home y un Stack dentro del tab Feed para abrir detalles. Verificada en dispositivo real sin crashes.",
+        "Laboratorio de TPA-4001: estructura de navegación de tres niveles con expo-router: un Drawer como contenedor principal, Bottom Tabs dentro de Home y un Stack dentro del tab Feed para abrir detalles. Verificada en dispositivo real sin crashes.",
       tecnologias: ["React Native", "Expo", "expo-router", "TypeScript"],
     },
     {
